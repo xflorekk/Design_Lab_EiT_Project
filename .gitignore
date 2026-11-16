@@ -1,8 +1,8 @@
-# Foldery z wynikami kompilacji
+# Compilation folders
 [Dd]ebug/
 [Rr]elease/
 
-# Pliki tymczasowe Microchip / Atmel Studio
+# Temporary files Microchip / Atmel Studio
 *.componentinfo
 .vs/
 *.user
