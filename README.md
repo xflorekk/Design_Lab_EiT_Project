@@ -12,6 +12,8 @@ The main goal of the project is to **understand and create microcontroller progr
 
 ## Block diagaram
 
+![image](assets\KiCad_1.3.png)
+
 ## Pinout tables
 | ATmega 328PB Pin | 7seg Pin |
 | :---: | :---: |
